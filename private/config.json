@@ -1,0 +1,15 @@
+{
+    "line": {
+        "channel_secret": "e6ea97c51a6f6442cfe60ef0241e3d0c",
+        "access_token": "F7p77Oy6+pQ7D3zh+dJv1hHWg2Fh2FmRnrRneZoz6OP1e1PFk/F0Wv0jYOAhx7hpF63nOuFCNnFaqavShreVny/b1g5+CAOksfaNSj6ES4ZTA20cXL/xUlWRDq+Oa2zW40IPhJ+qeEwhpOjBrG74KQdB04t89/1O/w1cDnyilFU="
+    },
+    "dialogflow": {
+        "host": "bots.dialogflow.com",
+        "webhook": "https://bots.dialogflow.com/line/9b3d71ce-04d4-4e33-93ab-fb18710595e4/webhook"
+    },
+    "api": {
+        "location": {
+            "store": "https://xxxxx.cloudfunctions.net/store-location"
+        }
+    }
+}
